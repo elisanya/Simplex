@@ -1,0 +1,79 @@
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.CoreCompileInputs.cache
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+c:\users\роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Роман\documents\visual studio 2017\Projects\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Form1.resources
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Ivan\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Administrator\Desktop\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Универ\Прога\6 семестр\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Универ\Прога\Laba1(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Nikita\Desktop\Laba2(Object)\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\bin\Debug\Laba1(Object).exe
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csprojAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1(Object).exe
+C:\Users\Stanislav\Desktop\Макс\Laba1(Object)\obj\Debug\Laba1(Object).pdb
+E:\Макс\Laba1(Object)\bin\Debug\Laba1(Object).exe.config
+E:\Макс\Laba1(Object)\bin\Debug\Laba1(Object).exe
+E:\Макс\Laba1(Object)\bin\Debug\Laba1(Object).pdb
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.AssemblyReference.cache
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.SuggestedBindingRedirects.cache
+E:\Макс\Laba1(Object)\obj\Debug\Laba1_Object_.Object.resources
+E:\Макс\Laba1(Object)\obj\Debug\Laba1_Object_.Properties.Resources.resources
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.GenerateResource.cache
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).csproj.CoreCompileInputs.cache
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).exe
+E:\Макс\Laba1(Object)\obj\Debug\Laba1(Object).pdb
